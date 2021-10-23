@@ -8,3 +8,6 @@ body {
     background-size: 100% 100%;
     text-align: center;
 }
+input[type=text]{
+    border-radius:5px;
+  }
